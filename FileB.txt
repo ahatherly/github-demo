@@ -1,2 +1,3 @@
 This is file B - it only has one line.
 Nah, that's wrong too, it has two lines.
+AAhh three lines!
