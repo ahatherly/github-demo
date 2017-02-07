@@ -1,2 +1,4 @@
 This is File A
 It has two lines in it
+No, it has three lines!
+Wrong again! Four lines.
